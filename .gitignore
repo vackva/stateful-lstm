@@ -1,2 +1,5 @@
 venv/
 .idea/
+Results/
+Data/
+.ipynb_checkpoints/
