@@ -1,0 +1,1 @@
+{"current_epoch": 1, "training_losses": [1.2421832084655762], "validation_losses": [0.743414044380188], "train_av_time": 15.39552927017212, "val_av_time": 8.144158363342285, "total_time": 0.0042815501822365655, "best_val_loss": 0.743414044380188, "test_loss": 0}
