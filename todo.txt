@@ -1,0 +1,5 @@
+- split data zerplfückt das audo signal - lieber den rest nehmen?
+
+- Tensorflow Code: detach hidden state notwendig?
+
+- Gleiche weights initalizer wählen
